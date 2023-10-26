@@ -1,0 +1,1413 @@
+{
+    "Total Nacional": {
+        "2021": {
+            "Total": {
+                "Total": 450687,
+                "Hombres": 231447,
+                "Mujeres": 219240
+            },
+            "Enero": {
+                "Total": 52147,
+                "Hombres": 26902,
+                "Mujeres": 25245
+            },
+            "Febrero": {
+                "Total": 40542,
+                "Hombres": 21260,
+                "Mujeres": 19282
+            },
+            "Marzo": {
+                "Total": 36864,
+                "Hombres": 19447,
+                "Mujeres": 17417
+            },
+            "Abril": {
+                "Total": 34494,
+                "Hombres": 17711,
+                "Mujeres": 16783
+            },
+            "Mayo": {
+                "Total": 34200,
+                "Hombres": 17643,
+                "Mujeres": 16557
+            },
+            "Junio": {
+                "Total": 32376,
+                "Hombres": 16396,
+                "Mujeres": 15980
+            },
+            "Julio": {
+                "Total": 35300,
+                "Hombres": 18024,
+                "Mujeres": 17276
+            },
+            "Agosto": {
+                "Total": 38126,
+                "Hombres": 19405,
+                "Mujeres": 18721
+            },
+            "Septiembre": {
+                "Total": 32803,
+                "Hombres": 16857,
+                "Mujeres": 15946
+            },
+            "Octubre": {
+                "Total": 34516,
+                "Hombres": 17575,
+                "Mujeres": 16941
+            },
+            "Noviembre": {
+                "Total": 36968,
+                "Hombres": 18650,
+                "Mujeres": 18318
+            },
+            "Diciembre": {
+                "Total": 42351,
+                "Hombres": 21577,
+                "Mujeres": 20774
+            }
+        },
+        "01 AndalucAa": {
+            "Total": {
+                "Total": 79498,
+                "Hombres": 41065,
+                "Mujeres": 38433
+            },
+            "Enero": {
+                "Total": 9238,
+                "Hombres": 4769,
+                "Mujeres": 4469
+            },
+            "Febrero": {
+                "Total": 7615,
+                "Hombres": 4030,
+                "Mujeres": 3585
+            },
+            "Marzo": {
+                "Total": 6688,
+                "Hombres": 3566,
+                "Mujeres": 3122
+            },
+            "Abril": {
+                "Total": 5963,
+                "Hombres": 2997,
+                "Mujeres": 2966
+            },
+            "Mayo": {
+                "Total": 6043,
+                "Hombres": 3122,
+                "Mujeres": 2921
+            },
+            "Junio": {
+                "Total": 5528,
+                "Hombres": 2794,
+                "Mujeres": 2734
+            },
+            "Julio": {
+                "Total": 6206,
+                "Hombres": 3174,
+                "Mujeres": 3032
+            },
+            "Agosto": {
+                "Total": 6860,
+                "Hombres": 3514,
+                "Mujeres": 3346
+            },
+            "Septiembre": {
+                "Total": 5687,
+                "Hombres": 3008,
+                "Mujeres": 2679
+            },
+            "Octubre": {
+                "Total": 5923,
+                "Hombres": 3066,
+                "Mujeres": 2857
+            },
+            "Noviembre": {
+                "Total": 6359,
+                "Hombres": 3284,
+                "Mujeres": 3075
+            },
+            "Diciembre": {
+                "Total": 7388,
+                "Hombres": 3741,
+                "Mujeres": 3647
+            }
+        },
+        "02 AragA3n": {
+            "Total": {
+                "Total": 14485,
+                "Hombres": 7370,
+                "Mujeres": 7115
+            },
+            "Enero": {
+                "Total": 1524,
+                "Hombres": 753,
+                "Mujeres": 771
+            },
+            "Febrero": {
+                "Total": 1267,
+                "Hombres": 671,
+                "Mujeres": 596
+            },
+            "Marzo": {
+                "Total": 1183,
+                "Hombres": 649,
+                "Mujeres": 534
+            },
+            "Abril": {
+                "Total": 1197,
+                "Hombres": 630,
+                "Mujeres": 567
+            },
+            "Mayo": {
+                "Total": 1122,
+                "Hombres": 585,
+                "Mujeres": 537
+            },
+            "Junio": {
+                "Total": 1042,
+                "Hombres": 529,
+                "Mujeres": 513
+            },
+            "Julio": {
+                "Total": 1195,
+                "Hombres": 578,
+                "Mujeres": 617
+            },
+            "Agosto": {
+                "Total": 1212,
+                "Hombres": 604,
+                "Mujeres": 608
+            },
+            "Septiembre": {
+                "Total": 1068,
+                "Hombres": 536,
+                "Mujeres": 532
+            },
+            "Octubre": {
+                "Total": 1167,
+                "Hombres": 583,
+                "Mujeres": 584
+            },
+            "Noviembre": {
+                "Total": 1163,
+                "Hombres": 556,
+                "Mujeres": 607
+            },
+            "Diciembre": {
+                "Total": 1345,
+                "Hombres": 696,
+                "Mujeres": 649
+            }
+        },
+        "03 Asturias, Principado de": {
+            "Total": {
+                "Total": 13366,
+                "Hombres": 6453,
+                "Mujeres": 6913
+            },
+            "Enero": {
+                "Total": 1489,
+                "Hombres": 741,
+                "Mujeres": 748
+            },
+            "Febrero": {
+                "Total": 1159,
+                "Hombres": 550,
+                "Mujeres": 609
+            },
+            "Marzo": {
+                "Total": 1151,
+                "Hombres": 568,
+                "Mujeres": 583
+            },
+            "Abril": {
+                "Total": 1038,
+                "Hombres": 495,
+                "Mujeres": 543
+            },
+            "Mayo": {
+                "Total": 1039,
+                "Hombres": 484,
+                "Mujeres": 555
+            },
+            "Junio": {
+                "Total": 962,
+                "Hombres": 472,
+                "Mujeres": 490
+            },
+            "Julio": {
+                "Total": 976,
+                "Hombres": 498,
+                "Mujeres": 478
+            },
+            "Agosto": {
+                "Total": 1039,
+                "Hombres": 497,
+                "Mujeres": 542
+            },
+            "Septiembre": {
+                "Total": 961,
+                "Hombres": 465,
+                "Mujeres": 496
+            },
+            "Octubre": {
+                "Total": 1118,
+                "Hombres": 526,
+                "Mujeres": 592
+            },
+            "Noviembre": {
+                "Total": 1119,
+                "Hombres": 523,
+                "Mujeres": 596
+            },
+            "Diciembre": {
+                "Total": 1315,
+                "Hombres": 634,
+                "Mujeres": 681
+            }
+        },
+        "04 Balears, Illes": {
+            "Total": {
+                "Total": 8828,
+                "Hombres": 4648,
+                "Mujeres": 4180
+            },
+            "Enero": {
+                "Total": 984,
+                "Hombres": 510,
+                "Mujeres": 474
+            },
+            "Febrero": {
+                "Total": 715,
+                "Hombres": 366,
+                "Mujeres": 349
+            },
+            "Marzo": {
+                "Total": 727,
+                "Hombres": 384,
+                "Mujeres": 343
+            },
+            "Abril": {
+                "Total": 652,
+                "Hombres": 362,
+                "Mujeres": 290
+            },
+            "Mayo": {
+                "Total": 642,
+                "Hombres": 327,
+                "Mujeres": 315
+            },
+            "Junio": {
+                "Total": 644,
+                "Hombres": 334,
+                "Mujeres": 310
+            },
+            "Julio": {
+                "Total": 689,
+                "Hombres": 370,
+                "Mujeres": 319
+            },
+            "Agosto": {
+                "Total": 795,
+                "Hombres": 409,
+                "Mujeres": 386
+            },
+            "Septiembre": {
+                "Total": 683,
+                "Hombres": 369,
+                "Mujeres": 314
+            },
+            "Octubre": {
+                "Total": 702,
+                "Hombres": 405,
+                "Mujeres": 297
+            },
+            "Noviembre": {
+                "Total": 714,
+                "Hombres": 366,
+                "Mujeres": 348
+            },
+            "Diciembre": {
+                "Total": 881,
+                "Hombres": 446,
+                "Mujeres": 435
+            }
+        },
+        "05 Canarias": {
+            "Total": {
+                "Total": 17178,
+                "Hombres": 9169,
+                "Mujeres": 8009
+            },
+            "Enero": {
+                "Total": 1555,
+                "Hombres": 861,
+                "Mujeres": 694
+            },
+            "Febrero": {
+                "Total": 1364,
+                "Hombres": 751,
+                "Mujeres": 613
+            },
+            "Marzo": {
+                "Total": 1480,
+                "Hombres": 783,
+                "Mujeres": 697
+            },
+            "Abril": {
+                "Total": 1433,
+                "Hombres": 773,
+                "Mujeres": 660
+            },
+            "Mayo": {
+                "Total": 1289,
+                "Hombres": 689,
+                "Mujeres": 600
+            },
+            "Junio": {
+                "Total": 1282,
+                "Hombres": 697,
+                "Mujeres": 585
+            },
+            "Julio": {
+                "Total": 1350,
+                "Hombres": 707,
+                "Mujeres": 643
+            },
+            "Agosto": {
+                "Total": 1566,
+                "Hombres": 829,
+                "Mujeres": 737
+            },
+            "Septiembre": {
+                "Total": 1387,
+                "Hombres": 699,
+                "Mujeres": 688
+            },
+            "Octubre": {
+                "Total": 1353,
+                "Hombres": 719,
+                "Mujeres": 634
+            },
+            "Noviembre": {
+                "Total": 1472,
+                "Hombres": 767,
+                "Mujeres": 705
+            },
+            "Diciembre": {
+                "Total": 1647,
+                "Hombres": 894,
+                "Mujeres": 753
+            }
+        },
+        "06 Cantabria": {
+            "Total": {
+                "Total": 6051,
+                "Hombres": 3079,
+                "Mujeres": 2972
+            },
+            "Enero": {
+                "Total": 576,
+                "Hombres": 309,
+                "Mujeres": 267
+            },
+            "Febrero": {
+                "Total": 486,
+                "Hombres": 232,
+                "Mujeres": 254
+            },
+            "Marzo": {
+                "Total": 509,
+                "Hombres": 273,
+                "Mujeres": 236
+            },
+            "Abril": {
+                "Total": 502,
+                "Hombres": 244,
+                "Mujeres": 258
+            },
+            "Mayo": {
+                "Total": 480,
+                "Hombres": 237,
+                "Mujeres": 243
+            },
+            "Junio": {
+                "Total": 446,
+                "Hombres": 214,
+                "Mujeres": 232
+            },
+            "Julio": {
+                "Total": 484,
+                "Hombres": 256,
+                "Mujeres": 228
+            },
+            "Agosto": {
+                "Total": 448,
+                "Hombres": 227,
+                "Mujeres": 221
+            },
+            "Septiembre": {
+                "Total": 510,
+                "Hombres": 276,
+                "Mujeres": 234
+            },
+            "Octubre": {
+                "Total": 504,
+                "Hombres": 256,
+                "Mujeres": 248
+            },
+            "Noviembre": {
+                "Total": 518,
+                "Hombres": 240,
+                "Mujeres": 278
+            },
+            "Diciembre": {
+                "Total": 588,
+                "Hombres": 315,
+                "Mujeres": 273
+            }
+        },
+        "07 Castilla y LeA3n": {
+            "Total": {
+                "Total": 29289,
+                "Hombres": 15170,
+                "Mujeres": 14119
+            },
+            "Enero": {
+                "Total": 3174,
+                "Hombres": 1671,
+                "Mujeres": 1503
+            },
+            "Febrero": {
+                "Total": 2781,
+                "Hombres": 1494,
+                "Mujeres": 1287
+            },
+            "Marzo": {
+                "Total": 2359,
+                "Hombres": 1264,
+                "Mujeres": 1095
+            },
+            "Abril": {
+                "Total": 2286,
+                "Hombres": 1181,
+                "Mujeres": 1105
+            },
+            "Mayo": {
+                "Total": 2196,
+                "Hombres": 1119,
+                "Mujeres": 1077
+            },
+            "Junio": {
+                "Total": 2022,
+                "Hombres": 1021,
+                "Mujeres": 1001
+            },
+            "Julio": {
+                "Total": 2341,
+                "Hombres": 1191,
+                "Mujeres": 1150
+            },
+            "Agosto": {
+                "Total": 2524,
+                "Hombres": 1292,
+                "Mujeres": 1232
+            },
+            "Septiembre": {
+                "Total": 2119,
+                "Hombres": 1107,
+                "Mujeres": 1012
+            },
+            "Octubre": {
+                "Total": 2375,
+                "Hombres": 1221,
+                "Mujeres": 1154
+            },
+            "Noviembre": {
+                "Total": 2418,
+                "Hombres": 1249,
+                "Mujeres": 1169
+            },
+            "Diciembre": {
+                "Total": 2694,
+                "Hombres": 1360,
+                "Mujeres": 1334
+            }
+        },
+        "08 Castilla - La Mancha": {
+            "Total": {
+                "Total": 20418,
+                "Hombres": 10639,
+                "Mujeres": 9779
+            },
+            "Enero": {
+                "Total": 2534,
+                "Hombres": 1296,
+                "Mujeres": 1238
+            },
+            "Febrero": {
+                "Total": 1870,
+                "Hombres": 1003,
+                "Mujeres": 867
+            },
+            "Marzo": {
+                "Total": 1551,
+                "Hombres": 807,
+                "Mujeres": 744
+            },
+            "Abril": {
+                "Total": 1471,
+                "Hombres": 769,
+                "Mujeres": 702
+            },
+            "Mayo": {
+                "Total": 1555,
+                "Hombres": 834,
+                "Mujeres": 721
+            },
+            "Junio": {
+                "Total": 1498,
+                "Hombres": 768,
+                "Mujeres": 730
+            },
+            "Julio": {
+                "Total": 1701,
+                "Hombres": 878,
+                "Mujeres": 823
+            },
+            "Agosto": {
+                "Total": 1823,
+                "Hombres": 946,
+                "Mujeres": 877
+            },
+            "Septiembre": {
+                "Total": 1426,
+                "Hombres": 731,
+                "Mujeres": 695
+            },
+            "Octubre": {
+                "Total": 1545,
+                "Hombres": 819,
+                "Mujeres": 726
+            },
+            "Noviembre": {
+                "Total": 1655,
+                "Hombres": 849,
+                "Mujeres": 806
+            },
+            "Diciembre": {
+                "Total": 1789,
+                "Hombres": 939,
+                "Mujeres": 850
+            }
+        },
+        "09 CataluA+-a": {
+            "Total": {
+                "Total": 69366,
+                "Hombres": 35398,
+                "Mujeres": 33968
+            },
+            "Enero": {
+                "Total": 7823,
+                "Hombres": 4003,
+                "Mujeres": 3820
+            },
+            "Febrero": {
+                "Total": 5970,
+                "Hombres": 3122,
+                "Mujeres": 2848
+            },
+            "Marzo": {
+                "Total": 5673,
+                "Hombres": 2980,
+                "Mujeres": 2693
+            },
+            "Abril": {
+                "Total": 5459,
+                "Hombres": 2812,
+                "Mujeres": 2647
+            },
+            "Mayo": {
+                "Total": 5297,
+                "Hombres": 2755,
+                "Mujeres": 2542
+            },
+            "Junio": {
+                "Total": 5193,
+                "Hombres": 2586,
+                "Mujeres": 2607
+            },
+            "Julio": {
+                "Total": 5586,
+                "Hombres": 2842,
+                "Mujeres": 2744
+            },
+            "Agosto": {
+                "Total": 5758,
+                "Hombres": 2947,
+                "Mujeres": 2811
+            },
+            "Septiembre": {
+                "Total": 4882,
+                "Hombres": 2445,
+                "Mujeres": 2437
+            },
+            "Octubre": {
+                "Total": 5294,
+                "Hombres": 2688,
+                "Mujeres": 2606
+            },
+            "Noviembre": {
+                "Total": 5713,
+                "Hombres": 2836,
+                "Mujeres": 2877
+            },
+            "Diciembre": {
+                "Total": 6718,
+                "Hombres": 3382,
+                "Mujeres": 3336
+            }
+        },
+        "10 Comunitat Valenciana": {
+            "Total": {
+                "Total": 49733,
+                "Hombres": 25917,
+                "Mujeres": 23816
+            },
+            "Enero": {
+                "Total": 7484,
+                "Hombres": 3916,
+                "Mujeres": 3568
+            },
+            "Febrero": {
+                "Total": 4826,
+                "Hombres": 2518,
+                "Mujeres": 2308
+            },
+            "Marzo": {
+                "Total": 3783,
+                "Hombres": 2011,
+                "Mujeres": 1772
+            },
+            "Abril": {
+                "Total": 3405,
+                "Hombres": 1769,
+                "Mujeres": 1636
+            },
+            "Mayo": {
+                "Total": 3479,
+                "Hombres": 1849,
+                "Mujeres": 1630
+            },
+            "Junio": {
+                "Total": 3370,
+                "Hombres": 1720,
+                "Mujeres": 1650
+            },
+            "Julio": {
+                "Total": 3781,
+                "Hombres": 1951,
+                "Mujeres": 1830
+            },
+            "Agosto": {
+                "Total": 3960,
+                "Hombres": 2043,
+                "Mujeres": 1917
+            },
+            "Septiembre": {
+                "Total": 3429,
+                "Hombres": 1765,
+                "Mujeres": 1664
+            },
+            "Octubre": {
+                "Total": 3512,
+                "Hombres": 1802,
+                "Mujeres": 1710
+            },
+            "Noviembre": {
+                "Total": 4071,
+                "Hombres": 2145,
+                "Mujeres": 1926
+            },
+            "Diciembre": {
+                "Total": 4633,
+                "Hombres": 2428,
+                "Mujeres": 2205
+            }
+        },
+        "11 Extremadura": {
+            "Total": {
+                "Total": 12333,
+                "Hombres": 6350,
+                "Mujeres": 5983
+            },
+            "Enero": {
+                "Total": 1620,
+                "Hombres": 809,
+                "Mujeres": 811
+            },
+            "Febrero": {
+                "Total": 1124,
+                "Hombres": 616,
+                "Mujeres": 508
+            },
+            "Marzo": {
+                "Total": 943,
+                "Hombres": 480,
+                "Mujeres": 463
+            },
+            "Abril": {
+                "Total": 907,
+                "Hombres": 461,
+                "Mujeres": 446
+            },
+            "Mayo": {
+                "Total": 880,
+                "Hombres": 459,
+                "Mujeres": 421
+            },
+            "Junio": {
+                "Total": 850,
+                "Hombres": 431,
+                "Mujeres": 419
+            },
+            "Julio": {
+                "Total": 963,
+                "Hombres": 514,
+                "Mujeres": 449
+            },
+            "Agosto": {
+                "Total": 1039,
+                "Hombres": 523,
+                "Mujeres": 516
+            },
+            "Septiembre": {
+                "Total": 954,
+                "Hombres": 524,
+                "Mujeres": 430
+            },
+            "Octubre": {
+                "Total": 919,
+                "Hombres": 468,
+                "Mujeres": 451
+            },
+            "Noviembre": {
+                "Total": 990,
+                "Hombres": 481,
+                "Mujeres": 509
+            },
+            "Diciembre": {
+                "Total": 1144,
+                "Hombres": 584,
+                "Mujeres": 560
+            }
+        },
+        "12 Galicia": {
+            "Total": {
+                "Total": 32841,
+                "Hombres": 16586,
+                "Mujeres": 16255
+            },
+            "Enero": {
+                "Total": 3519,
+                "Hombres": 1805,
+                "Mujeres": 1714
+            },
+            "Febrero": {
+                "Total": 2779,
+                "Hombres": 1415,
+                "Mujeres": 1364
+            },
+            "Marzo": {
+                "Total": 2794,
+                "Hombres": 1477,
+                "Mujeres": 1317
+            },
+            "Abril": {
+                "Total": 2619,
+                "Hombres": 1294,
+                "Mujeres": 1325
+            },
+            "Mayo": {
+                "Total": 2584,
+                "Hombres": 1276,
+                "Mujeres": 1308
+            },
+            "Junio": {
+                "Total": 2450,
+                "Hombres": 1255,
+                "Mujeres": 1195
+            },
+            "Julio": {
+                "Total": 2575,
+                "Hombres": 1301,
+                "Mujeres": 1274
+            },
+            "Agosto": {
+                "Total": 2626,
+                "Hombres": 1341,
+                "Mujeres": 1285
+            },
+            "Septiembre": {
+                "Total": 2437,
+                "Hombres": 1226,
+                "Mujeres": 1211
+            },
+            "Octubre": {
+                "Total": 2527,
+                "Hombres": 1248,
+                "Mujeres": 1279
+            },
+            "Noviembre": {
+                "Total": 2853,
+                "Hombres": 1405,
+                "Mujeres": 1448
+            },
+            "Diciembre": {
+                "Total": 3078,
+                "Hombres": 1543,
+                "Mujeres": 1535
+            }
+        },
+        "13 Madrid, Comunidad de": {
+            "Total": {
+                "Total": 49848,
+                "Hombres": 25171,
+                "Mujeres": 24677
+            },
+            "Enero": {
+                "Total": 5625,
+                "Hombres": 2901,
+                "Mujeres": 2724
+            },
+            "Febrero": {
+                "Total": 4585,
+                "Hombres": 2411,
+                "Mujeres": 2174
+            },
+            "Marzo": {
+                "Total": 4254,
+                "Hombres": 2201,
+                "Mujeres": 2053
+            },
+            "Abril": {
+                "Total": 3897,
+                "Hombres": 2034,
+                "Mujeres": 1863
+            },
+            "Mayo": {
+                "Total": 3918,
+                "Hombres": 2003,
+                "Mujeres": 1915
+            },
+            "Junio": {
+                "Total": 3561,
+                "Hombres": 1791,
+                "Mujeres": 1770
+            },
+            "Julio": {
+                "Total": 3811,
+                "Hombres": 1887,
+                "Mujeres": 1924
+            },
+            "Agosto": {
+                "Total": 4455,
+                "Hombres": 2178,
+                "Mujeres": 2277
+            },
+            "Septiembre": {
+                "Total": 3646,
+                "Hombres": 1819,
+                "Mujeres": 1827
+            },
+            "Octubre": {
+                "Total": 3706,
+                "Hombres": 1788,
+                "Mujeres": 1918
+            },
+            "Noviembre": {
+                "Total": 3970,
+                "Hombres": 1966,
+                "Mujeres": 2004
+            },
+            "Diciembre": {
+                "Total": 4420,
+                "Hombres": 2192,
+                "Mujeres": 2228
+            }
+        },
+        "14 Murcia, RegiA3n de": {
+            "Total": {
+                "Total": 12530,
+                "Hombres": 6508,
+                "Mujeres": 6022
+            },
+            "Enero": {
+                "Total": 1633,
+                "Hombres": 849,
+                "Mujeres": 784
+            },
+            "Febrero": {
+                "Total": 1134,
+                "Hombres": 604,
+                "Mujeres": 530
+            },
+            "Marzo": {
+                "Total": 998,
+                "Hombres": 535,
+                "Mujeres": 463
+            },
+            "Abril": {
+                "Total": 903,
+                "Hombres": 467,
+                "Mujeres": 436
+            },
+            "Mayo": {
+                "Total": 943,
+                "Hombres": 482,
+                "Mujeres": 461
+            },
+            "Junio": {
+                "Total": 921,
+                "Hombres": 471,
+                "Mujeres": 450
+            },
+            "Julio": {
+                "Total": 942,
+                "Hombres": 479,
+                "Mujeres": 463
+            },
+            "Agosto": {
+                "Total": 1016,
+                "Hombres": 503,
+                "Mujeres": 513
+            },
+            "Septiembre": {
+                "Total": 905,
+                "Hombres": 495,
+                "Mujeres": 410
+            },
+            "Octubre": {
+                "Total": 924,
+                "Hombres": 476,
+                "Mujeres": 448
+            },
+            "Noviembre": {
+                "Total": 941,
+                "Hombres": 488,
+                "Mujeres": 453
+            },
+            "Diciembre": {
+                "Total": 1270,
+                "Hombres": 659,
+                "Mujeres": 611
+            }
+        },
+        "15 Navarra, Comunidad Foral de": {
+            "Total": {
+                "Total": 5760,
+                "Hombres": 2981,
+                "Mujeres": 2779
+            },
+            "Enero": {
+                "Total": 541,
+                "Hombres": 287,
+                "Mujeres": 254
+            },
+            "Febrero": {
+                "Total": 450,
+                "Hombres": 248,
+                "Mujeres": 202
+            },
+            "Marzo": {
+                "Total": 482,
+                "Hombres": 251,
+                "Mujeres": 231
+            },
+            "Abril": {
+                "Total": 478,
+                "Hombres": 252,
+                "Mujeres": 226
+            },
+            "Mayo": {
+                "Total": 457,
+                "Hombres": 256,
+                "Mujeres": 201
+            },
+            "Junio": {
+                "Total": 413,
+                "Hombres": 196,
+                "Mujeres": 217
+            },
+            "Julio": {
+                "Total": 444,
+                "Hombres": 217,
+                "Mujeres": 227
+            },
+            "Agosto": {
+                "Total": 519,
+                "Hombres": 279,
+                "Mujeres": 240
+            },
+            "Septiembre": {
+                "Total": 390,
+                "Hombres": 199,
+                "Mujeres": 191
+            },
+            "Octubre": {
+                "Total": 509,
+                "Hombres": 255,
+                "Mujeres": 254
+            },
+            "Noviembre": {
+                "Total": 502,
+                "Hombres": 251,
+                "Mujeres": 251
+            },
+            "Diciembre": {
+                "Total": 575,
+                "Hombres": 290,
+                "Mujeres": 285
+            }
+        },
+        "16 PaAs Vasco": {
+            "Total": {
+                "Total": 23082,
+                "Hombres": 11587,
+                "Mujeres": 11495
+            },
+            "Enero": {
+                "Total": 2251,
+                "Hombres": 1105,
+                "Mujeres": 1146
+            },
+            "Febrero": {
+                "Total": 1932,
+                "Hombres": 981,
+                "Mujeres": 951
+            },
+            "Marzo": {
+                "Total": 1816,
+                "Hombres": 948,
+                "Mujeres": 868
+            },
+            "Abril": {
+                "Total": 1830,
+                "Hombres": 929,
+                "Mujeres": 901
+            },
+            "Mayo": {
+                "Total": 1849,
+                "Hombres": 932,
+                "Mujeres": 917
+            },
+            "Junio": {
+                "Total": 1737,
+                "Hombres": 873,
+                "Mujeres": 864
+            },
+            "Julio": {
+                "Total": 1783,
+                "Hombres": 921,
+                "Mujeres": 862
+            },
+            "Agosto": {
+                "Total": 1937,
+                "Hombres": 981,
+                "Mujeres": 956
+            },
+            "Septiembre": {
+                "Total": 1835,
+                "Hombres": 915,
+                "Mujeres": 920
+            },
+            "Octubre": {
+                "Total": 1879,
+                "Hombres": 940,
+                "Mujeres": 939
+            },
+            "Noviembre": {
+                "Total": 1965,
+                "Hombres": 939,
+                "Mujeres": 1026
+            },
+            "Diciembre": {
+                "Total": 2268,
+                "Hombres": 1123,
+                "Mujeres": 1145
+            }
+        },
+        "17 Rioja, La": {
+            "Total": {
+                "Total": 3409,
+                "Hombres": 1742,
+                "Mujeres": 1667
+            },
+            "Enero": {
+                "Total": 369,
+                "Hombres": 186,
+                "Mujeres": 183
+            },
+            "Febrero": {
+                "Total": 290,
+                "Hombres": 132,
+                "Mujeres": 158
+            },
+            "Marzo": {
+                "Total": 292,
+                "Hombres": 156,
+                "Mujeres": 136
+            },
+            "Abril": {
+                "Total": 272,
+                "Hombres": 135,
+                "Mujeres": 137
+            },
+            "Mayo": {
+                "Total": 242,
+                "Hombres": 134,
+                "Mujeres": 108
+            },
+            "Junio": {
+                "Total": 267,
+                "Hombres": 132,
+                "Mujeres": 135
+            },
+            "Julio": {
+                "Total": 268,
+                "Hombres": 145,
+                "Mujeres": 123
+            },
+            "Agosto": {
+                "Total": 276,
+                "Hombres": 133,
+                "Mujeres": 143
+            },
+            "Septiembre": {
+                "Total": 251,
+                "Hombres": 128,
+                "Mujeres": 123
+            },
+            "Octubre": {
+                "Total": 281,
+                "Hombres": 146,
+                "Mujeres": 135
+            },
+            "Noviembre": {
+                "Total": 281,
+                "Hombres": 126,
+                "Mujeres": 155
+            },
+            "Diciembre": {
+                "Total": 320,
+                "Hombres": 189,
+                "Mujeres": 131
+            }
+        },
+        "18 Ceuta": {
+            "Total": {
+                "Total": 681,
+                "Hombres": 354,
+                "Mujeres": 327
+            },
+            "Enero": {
+                "Total": 74,
+                "Hombres": 44,
+                "Mujeres": 30
+            },
+            "Febrero": {
+                "Total": 66,
+                "Hombres": 36,
+                "Mujeres": 30
+            },
+            "Marzo": {
+                "Total": 66,
+                "Hombres": 30,
+                "Mujeres": 36
+            },
+            "Abril": {
+                "Total": 46,
+                "Hombres": 25,
+                "Mujeres": 21
+            },
+            "Mayo": {
+                "Total": 63,
+                "Hombres": 31,
+                "Mujeres": 32
+            },
+            "Junio": {
+                "Total": 46,
+                "Hombres": 25,
+                "Mujeres": 21
+            },
+            "Julio": {
+                "Total": 48,
+                "Hombres": 23,
+                "Mujeres": 25
+            },
+            "Agosto": {
+                "Total": 52,
+                "Hombres": 26,
+                "Mujeres": 26
+            },
+            "Septiembre": {
+                "Total": 50,
+                "Hombres": 30,
+                "Mujeres": 20
+            },
+            "Octubre": {
+                "Total": 50,
+                "Hombres": 26,
+                "Mujeres": 24
+            },
+            "Noviembre": {
+                "Total": 52,
+                "Hombres": 27,
+                "Mujeres": 25
+            },
+            "Diciembre": {
+                "Total": 68,
+                "Hombres": 31,
+                "Mujeres": 37
+            }
+        },
+        "19 Melilla": {
+            "Total": {
+                "Total": 574,
+                "Hombres": 282,
+                "Mujeres": 292
+            },
+            "Enero": {
+                "Total": 43,
+                "Hombres": 22,
+                "Mujeres": 21
+            },
+            "Febrero": {
+                "Total": 65,
+                "Hombres": 32,
+                "Mujeres": 33
+            },
+            "Marzo": {
+                "Total": 41,
+                "Hombres": 27,
+                "Mujeres": 14
+            },
+            "Abril": {
+                "Total": 61,
+                "Hombres": 29,
+                "Mujeres": 32
+            },
+            "Mayo": {
+                "Total": 44,
+                "Hombres": 22,
+                "Mujeres": 22
+            },
+            "Junio": {
+                "Total": 42,
+                "Hombres": 20,
+                "Mujeres": 22
+            },
+            "Julio": {
+                "Total": 45,
+                "Hombres": 23,
+                "Mujeres": 22
+            },
+            "Agosto": {
+                "Total": 49,
+                "Hombres": 20,
+                "Mujeres": 29
+            },
+            "Septiembre": {
+                "Total": 36,
+                "Hombres": 13,
+                "Mujeres": 23
+            },
+            "Octubre": {
+                "Total": 53,
+                "Hombres": 26,
+                "Mujeres": 27
+            },
+            "Noviembre": {
+                "Total": 42,
+                "Hombres": 22,
+                "Mujeres": 20
+            },
+            "Diciembre": {
+                "Total": 53,
+                "Hombres": 26,
+                "Mujeres": 27
+            }
+        }
+    },
+    "Extranjero": {
+        "2021": {
+            "Total": {
+                "Total": 1417,
+                "Hombres": 978,
+                "Mujeres": 439
+            },
+            "Enero": {
+                "Total": 91,
+                "Hombres": 65,
+                "Mujeres": 26
+            },
+            "Febrero": {
+                "Total": 64,
+                "Hombres": 48,
+                "Mujeres": 16
+            },
+            "Marzo": {
+                "Total": 74,
+                "Hombres": 57,
+                "Mujeres": 17
+            },
+            "Abril": {
+                "Total": 75,
+                "Hombres": 53,
+                "Mujeres": 22
+            },
+            "Mayo": {
+                "Total": 78,
+                "Hombres": 47,
+                "Mujeres": 31
+            },
+            "Junio": {
+                "Total": 102,
+                "Hombres": 67,
+                "Mujeres": 35
+            },
+            "Julio": {
+                "Total": 112,
+                "Hombres": 69,
+                "Mujeres": 43
+            },
+            "Agosto": {
+                "Total": 172,
+                "Hombres": 113,
+                "Mujeres": 59
+            },
+            "Septiembre": {
+                "Total": 147,
+                "Hombres": 107,
+                "Mujeres": 40
+            },
+            "Octubre": {
+                "Total": 175,
+                "Hombres": 117,
+                "Mujeres": 58
+            },
+            "Noviembre": {
+                "Total": 170,
+                "Hombres": 130,
+                "Mujeres": 40
+            },
+            "Diciembre": {
+                "Total": 157,
+                "Hombres": 105,
+                "Mujeres": 52
+            }
+        }
+    }
+}
